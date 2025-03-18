@@ -4,7 +4,7 @@ from telegram import Bot
 from deep_translator import GoogleTranslator
 
 # Configurações do bot
-TOKEN = ""
+TOKEN = "adicione aqui o token do seu bot do telegram"
 
 # Função para obter um conselho aleatório
 
